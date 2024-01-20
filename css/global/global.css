@@ -1,7 +1,7 @@
 body,
 input{
-    background-color: rgb(40, 38, 41);
-    color: azure;
+    background-color: rgb(255, 255, 255);
+    color: rgb(241, 177, 16);
 }
 
 #searchPkm{
@@ -14,11 +14,7 @@ input{
 }
 
 .nav-tabs .nav-link.active{
-    background-color: purple;
-}
-
-label.error{
-    color: red;
+    background-color: rgb(188, 0, 0);
 }
 
 .carousel-control-prev-icon {
